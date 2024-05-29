@@ -1,4 +1,4 @@
-##API Framework Testing v2
+## API Framework Testing v2
 
 --_English_--
 
@@ -35,7 +35,7 @@
 
 <hr />
 
-##API Framework Testing v2
+## API Framework Testing v2
 
 --_Español_-- 
 
