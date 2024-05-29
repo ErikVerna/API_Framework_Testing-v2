@@ -11,7 +11,7 @@ public class utils {
     RequestSpecification requestSpecification;
     Response response;
 
-    String bearer_token = "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"; // here goes the bearer token to get the API call
+    String bearer_token = ""; // here goes the bearer token from GitHub to get the API call
     String baseURI = "https://api.github.com";
 
     public Response postRequest(String resourcePath, String payload) {
